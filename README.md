@@ -11,15 +11,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=priyanshubiswas-tech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshubiswas-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=priyanshubiswas-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
   ## ☕ I have an undeniable love for coffee!
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/priyanshubiswas_tech) 
 
