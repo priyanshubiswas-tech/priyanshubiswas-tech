@@ -9,6 +9,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshubiswas-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=priyanshubiswas-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
