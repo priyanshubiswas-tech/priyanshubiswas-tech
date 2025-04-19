@@ -1,7 +1,6 @@
 <img src="Firefly.png" alt="GitHub Banner" width="100%" />
 
-# Hello World! I'm Priyanshu, a Data Science Enthusiast & Researcher 👋
-🛠 I’m working on a data analytics and data science projects.<br>🤝 I’m looking to collaborate on Python, NLP, Neural Networks, MLOps (Databricks, MLflow), Scikit-learn, LLMs, and automation tech.<br>🌱 I’m currently learning Advanced Machine Learning, Generative AI, and Edge Computing for IoT  <br>💬 Ask me about my research and case study on the IoT project "Farmlab", focusing on rural agricultural communities, and their responses.
+# I'm Priyanshu, a Data Science enthusiast and researcher focused on data analytics and machine learning. Currently, I’m learning advanced ML, generative AI, and edge computing for IoT. I'm working on a project, "Farmlab," which explores the impact of technology on rural agricultural communities. I'm open to collaborations in Python, NLP, neural networks, MLOps, and automation.
 
 
 # 💻 Tech Stack:
