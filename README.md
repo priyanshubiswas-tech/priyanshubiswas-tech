@@ -1,4 +1,4 @@
-<img src="Firefly.png" alt="GitHub Banner" width="100%" />
+<img src="bannertechde.png" alt="GitHub Banner" width="100%" />
 
 # Hello World! I'm Priyanshu, a Data Enthusiast & Researcher 
 🛠 I’m working on a data Engineering and data science projects.<br>🤝 I’m looking to collaborate on Python, NLP, Neural Networks, MLOps (Databricks, MLflow), Scikit-learn, LLMs, and automation tech.<br>🌱 I’m currently learning Advanced Machine Learning, Generative AI, and Edge Computing for IoT  <br>💬 Ask me about my research and case study on the IoT project "Farmlab", focusing on rural agricultural communities, and their responses.
