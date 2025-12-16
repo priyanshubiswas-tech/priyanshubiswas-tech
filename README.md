@@ -4,8 +4,8 @@
 🛠 I’m working on a data Engineering and data science projects.<br>🤝 I’m looking to collaborate on Python, NLP, Neural Networks, MLOps (Databricks, MLflow), Scikit-learn, LLMs, and automation tech.<br>🌱 I’m currently learning Advanced Machine Learning, Generative AI, and Edge Computing for IoT  <br>💬 Ask me about my research and case study on the IoT project "Farmlab", focusing on rural agricultural communities, and their responses.
 
 
-# 💻 Tech Stack:
-## 🧠 Programming Languages
+# Tech Stack:
+## Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -19,7 +19,7 @@
 
 ---
 
-## 🌩️ Cloud & Data Services
+## Cloud & Data Services
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -38,7 +38,7 @@
 
 ---
 
-## 🗄️ Databases & Warehouses
+## Databases & Warehouses
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -51,7 +51,7 @@
 
 ---
 
-## ⚙️ Data Engineering & Streaming
+## Data Engineering & Streaming
 ![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka)
@@ -63,7 +63,7 @@
 
 ---
 
-## 🤖 AI, ML & Analytics
+## AI, ML & Analytics
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -79,7 +79,7 @@
 
 ---
 
-## 🧩 DevOps & Infrastructure
+## DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -91,7 +91,7 @@
 
 ---
 
-## 💻 Collaboration & Productivity
+## Collaboration & Productivity
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -101,7 +101,7 @@
 
 ---
 
-## 🎨 Design, Media & Creativity
+## Design, Media & Creativity
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
