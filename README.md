@@ -1,4 +1,4 @@
-<img src="bannertechde.png" alt="GitHub Banner" width="100%" />
+
 
 # Hello World! I'm Priyanshu, a Data Enthusiast & Researcher 
 🛠 I’m working on a data Engineering and data science projects.<br>🤝 I’m looking to collaborate on Python, NLP, Neural Networks, MLOps (Databricks, MLflow), Scikit-learn, LLMs, and automation tech.<br>🌱 I’m currently learning Advanced Machine Learning, Generative AI, and Edge Computing for IoT  <br>💬 Ask me about my research and case study on the IoT project "Farmlab", focusing on rural agricultural communities, and their responses.
@@ -9,9 +9,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-# Stack
+# Tech Stack
 
-## Languages
 ![C](https://img.shields.io/badge/C-%230A0A0A.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%230A0A0A.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%230A0A0A.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -22,10 +21,6 @@
 ![R](https://img.shields.io/badge/R-%230A0A0A.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%230A0A0A.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%230A0A0A.svg?style=for-the-badge&logo=latex&logoColor=white)
-
----
-
-## Cloud & Data Services
 ![AWS](https://img.shields.io/badge/AWS-%230A0A0A.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230A0A0A.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%230A0A0A.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -41,10 +36,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-%230A0A0A.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%230A0A0A.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Kubeflow](https://img.shields.io/badge/Kubeflow-%230A0A0A.svg?style=for-the-badge&logo=kubeflow&logoColor=white)
-
----
-
-## Databases & Warehouses
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-%230A0A0A.svg?style=for-the-badge&logo=clickhouse&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%230A0A0A.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%230A0A0A.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -54,10 +45,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-%230A0A0A.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-%230A0A0A.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![Teradata](https://img.shields.io/badge/Teradata-%230A0A0A.svg?style=for-the-badge&logo=teradata&logoColor=white)
-
----
-
-## Data Engineering & Streaming
 ![Hadoop](https://img.shields.io/badge/Hadoop-%230A0A0A.svg?style=for-the-badge&logo=apachehadoop&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-%230A0A0A.svg?style=for-the-badge&logo=apachehive&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-%230A0A0A.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -66,10 +53,6 @@
 ![Airflow](https://img.shields.io/badge/Airflow-%230A0A0A.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![AWS EMR](https://img.shields.io/badge/AWS_EMR-%230A0A0A.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Databricks Spark](https://img.shields.io/badge/Databricks_Spark-%230A0A0A.svg?style=for-the-badge&logo=apachespark&logoColor=white)
-
----
-
-## AI, ML & Analytics
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%230A0A0A.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%230A0A0A.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%230A0A0A.svg?style=for-the-badge&logo=keras&logoColor=white)
@@ -81,10 +64,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%230A0A0A.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-%230A0A0A.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 ![LLM-RAG](https://img.shields.io/badge/LLM--RAG-%230A0A0A.svg?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-## DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-%230A0A0A.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%230A0A0A.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%230A0A0A.svg?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -93,10 +72,6 @@
 ![Terraform](https://img.shields.io/badge/Terraform-%230A0A0A.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%230A0A0A.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%230A0A0A.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
----
-
-## Design, Media & Creativity
 ![Photoshop](https://img.shields.io/badge/Photoshop-%230A0A0A.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-%230A0A0A.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-%230A0A0A.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
