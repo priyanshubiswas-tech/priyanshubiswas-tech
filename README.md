@@ -1,7 +1,16 @@
 
+Hi there,
 
-# Hello World! I'm Priyanshu, a Data Enthusiast & Researcher 
-🛠 I’m working on a data Engineering and data science projects.<br>🤝 I’m looking to collaborate on Python, NLP, Neural Networks, MLOps (Databricks, MLflow), Scikit-learn, LLMs, and automation tech.<br>🌱 I’m currently learning Advanced Machine Learning, Generative AI, and Edge Computing for IoT  <br>💬 Ask me about my research and case study on the IoT project "Farmlab", focusing on rural agricultural communities, and their responses.
+I’m Priyanshu, a SWE, an artist, and athlete ☯.
+
+I currently work as a Software and Data Engineer at **[EDN](https://www.edatanow.com)**, where I build scalable, real-time, and automated data pipelines, backend services, and distributed systems that process billions of records daily with near O(n) streaming complexity and up to 11x throughput gains.
+
+At EDN, we provide audit and data-driven solutions for industries such as Automotive, Space R&D, and Manufacturing, developing large-scale, high-impact features with AR, MR, and LLM/RAG integrations.
+My work spans multi-cloud platforms where I design large-scale Kubernetes and open-source architectures.
+
+Outside of work, I’m deeply into performing arts and sports. C’est la vie!
+
+Let’s connect!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
