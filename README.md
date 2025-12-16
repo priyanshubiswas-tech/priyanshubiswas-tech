@@ -9,9 +9,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-# Tech Stack
+# Stack
 
-## Programming Languages
+## Languages
 ![C](https://img.shields.io/badge/C-%230A0A0A.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%230A0A0A.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%230A0A0A.svg?style=for-the-badge&logo=csharp&logoColor=white)
