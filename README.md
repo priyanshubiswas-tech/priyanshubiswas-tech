@@ -3,7 +3,7 @@ Hi there,
 
 I’m Priyanshu, a SWE, an artist, and athlete ☯.
 
-I currently work as a Software and Data Engineer at **[EDN](https://www.edatanow.com)**, where I build scalable, real-time, and automated data pipelines, backend services, and distributed systems that process billions of records daily with near O(n) streaming complexity and up to 11x throughput gains.
+I currently work as a Lead Software and Data Engineer at **[EDN](https://www.edatanow.com)**, where I build scalable, real-time, and automated data pipelines, backend services, and distributed systems that process billions of records daily with near O(n) streaming complexity and up to 11x throughput gains.
 
 At EDN, we provide audit and data-driven solutions for industries such as Automotive, Space R&D, and Manufacturing, developing large-scale, high-impact features with AR, MR, and LLM/RAG integrations.
 My work spans multi-cloud platforms where I design large-scale Kubernetes and open-source architectures.
