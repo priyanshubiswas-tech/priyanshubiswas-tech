@@ -81,16 +81,6 @@ Let’s connect!
 ![Terraform](https://img.shields.io/badge/Terraform-%230A0A0A.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%230A0A0A.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%230A0A0A.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-%230A0A0A.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-%230A0A0A.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-%230A0A0A.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-%230A0A0A.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-%230A0A0A.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-%230A0A0A.svg?style=for-the-badge&logo=krita&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%230A0A0A.svg?style=for-the-badge&logo=figma&logoColor=white)
-![OpenSea](https://img.shields.io/badge/OpenSea-%230A0A0A.svg?style=for-the-badge&logo=opensea&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%230A0A0A.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0A0A.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
 
