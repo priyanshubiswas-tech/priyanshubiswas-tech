@@ -1,7 +1,7 @@
 
 Hi there,
 
-I’m Priyanshu, a SWE, an artist, and athlete ☯.
+I’m **[Priyanshu](https://www.priyanshu.space/)**, a SWE, an artist, and athlete ☯.
 
 I currently work as a Lead Software and Data Engineer at **[EDN](https://www.edatanow.com)**, where I build scalable, real-time, and automated data pipelines, backend services, and distributed systems that process billions of records daily with near O(n) streaming complexity and up to 11x throughput gains.
 
